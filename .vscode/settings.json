@@ -1,0 +1,5 @@
+{
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
